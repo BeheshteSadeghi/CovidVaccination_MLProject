@@ -17,4 +17,4 @@
 #### 4. CatBoost
 
 ### Then the performance of these models are compared together based on MAE factor.
-### The best model (CatBoost model) is then saved using joblib module for further use.
+### The best model (RandomForest model) is then saved using joblib module for further use.

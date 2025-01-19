@@ -12,9 +12,9 @@
 
 ### After applying Pycaret over the cleaned data, top models are selected for hyper-parameter tuning:
 #### 1. RandomForest
-#### 2. Extratrees
+#### 2. ExtraTrees
 #### 3. GradientBoosting
 #### 4. CatBoost
 
 ### Then the performance of these models are compared together based on MAE factor.
-### The best model (RandomForest model) is then saved using joblib module for further use.
+### The best model (ExtraTrees model) is then saved using joblib module for further use.
